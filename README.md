@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mary Adeke</h1>
-<h3 align="center">A passionate frontend developer form Uganda</h3>
+<h3 align="center">A passionate full stack developer from Uganda</h3>
 <img align='right' alt='coding' width='400' src='https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maryadeke&label=Profile%20views&color=0e75b6&style=flat" alt="maryadeke" /> </p>
